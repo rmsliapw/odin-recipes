@@ -1,0 +1,43 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: orange;
+  color: white;
+}
+
+ul,
+ol {
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  margin-top: 50px;
+  font-weight: bold;
+  display: inline-block;
+  margin-top: 20px;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+main {
+  width: 50%;
+  margin: 50px auto;
+  text-align: center;
+}
+
+img {
+  width: 100%;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+section {
+  text-align: left;
+}
