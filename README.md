@@ -1,2 +1,2 @@
 # Recipes Project
-Simple web page for football food recipes fiction site. 
+Simple web page for football food recipes fictional site. 
